@@ -32,7 +32,7 @@
       <a href="https://github.com/GTNewHorizons/GT-New-Horizons-Modpack/issues">🧹 Переглянути всі відкриті звіти про проблеми</a><br>
       <a href="https://github.com/pulls?q=is%3Aopen+is%3Apr+org%3AGTNewHorizons+archived%3Afalse+draft%3Afalse">🛠️ Переглянути всі відкриті запити на злиття</a><br>
       <a href="https://wiki.gtnewhorizons.com/wiki/Development">📕 Вікі-сторінка для розробників</a><br>
-      <a href="https://github.com/GTNewHorizons/DreamAssemblerXXL/actions/workflows/daily-modpack-build.yml">☀️ Щоденні збірки</a><br>
+      <a href="https://github.com/GTNewHorizons/GTNH-Daily-Builds/releases">☀️ Щоденні збірки</a><br>
       <a href="https://github.com/GTNewHorizons/DreamAssemblerXXL/actions/workflows/experimental-modpack-build.yml">🧪 Експериментальні збірки</a><br>
       <a href="https://github.com/GTNewHorizons/ExampleMod1.7.10/releases/latest">📦 Стартовий/міграційний пакет ExampleMod</a><br>
       <a href="https://nexus.gtnewhorizons.com/service/rest/repository/browse/public/">🪶 Maven</a><br>
